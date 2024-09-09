@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://github.com/user-attachments/assets/d1a2fb2b-e8ec-4275-baef-7bc09bba1470" alt="prajaktap50" height="-20" width="800" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/d1a2fb2b-e8ec-4275-baef-7bc09bba1470" alt="prajaktap50"  /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
