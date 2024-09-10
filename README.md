@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktap50" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://prajaktap50.github.io/personal-portfolio/](https://prajaktap50.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at(https://prajaktap50.github.io/Personal-portfolio0/)
 
 - 📫 How to reach me **prajaktap675@gmail.com**
 
