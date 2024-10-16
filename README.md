@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh6MnptcjVqeTFheGc2am92ODl2a3ZoaGg3aGhubHZxc3hjN2ZuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" >
+<img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh6MnptcjVqeTFheGc2am92ODl2a3ZoaGg3aGhubHZxc3hjN2ZuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" >
 
 <p align="left"> <img  width="150" hight="150" src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktap50" /> </p>
 
