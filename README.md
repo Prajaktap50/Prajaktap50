@@ -7,25 +7,6 @@
 
 <p align="left"> <img  width="150" hight="150" src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktap50" /> </p>
 
-<div style="text-align: left; margin: 20px;">
-    <img 
-        width="150" 
-        height="150" 
-        src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=0e75b6&style=flat" 
-        alt="Profile views for prajaktap50" 
-        loading="lazy" 
-        style="
-            border: 3px solid #0e75b6; 
-            border-radius: 10px; 
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s;
-        "
-        onmouseover="this.style.transform='scale(1.05)';" 
-        onmouseout="this.style.transform='scale(1)';"
-    />
-</div>
-
-
 
 - 👨‍💻 Here is my portfolio:( https://prajaktap50.github.io/personal-portfolioo/)
 
