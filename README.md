@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">I'm a Full Stack Web Developer and I am Passionate about designing & implementing the visual and interactive element of website.</h3>
+
+(https://visitcount.itsvg.in/api?id=Prajaktap50&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Prajaktap50&label=Profile%20Views&color=1&pretty=false" />
+</a>
 <img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh6MnptcjVqeTFheGc2am92ODl2a3ZoaGg3aGhubHZxc3hjN2ZuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" >
 
 <p align="left"> <img  width="150" hight="150" src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktap50" /> </p>
