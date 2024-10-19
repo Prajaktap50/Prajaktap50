@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">I'm a Full Stack Web Developer and I am Passionate about designing & implementing the visual and interactive element of website.</h3>
 
-(https://visitcount.itsvg.in/api?id=Prajaktap50&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+https://visitcount.itsvg.in/api?id=Prajaktap50&label=Profile%20Views&pretty=false
+https://visitcount.itsvg.in
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Prajaktap50&label=Profile%20Views&color=1&pretty=false" />
 </a>
