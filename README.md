@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img  width="150" hight="150" src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktap50" /> </p>
+<p align="left"> <img  width="150" hight="150" src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=dc143c&style=plastic"  alt="prajaktap50" /> </p>
 
 
 - 👨‍💻 Here is my portfolio:( https://prajaktap50.github.io/personal-portfolioo/)
