@@ -4,13 +4,9 @@
 <h3 align="center">I'm a Full Stack Web Developer and I am Passionate about designing & implementing the visual and interactive element of website.</h3>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=falcaozane&label=Zane's%20Profile%20Views%20&color=dc143c&style=plastic" alt="falcaozane" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=prajaktap50&label=Prajakta's%20Profile%20views&color=dc143c&style=plastic"  alt="prajaktap50" /> </p>
+
 <br>
-
-
-
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=prajaktap50&label=Profile%20views&color=dc143c&style=plastic"  alt="prajaktap50" /> </p>
-
 
 - 👨‍💻 Here is my portfolio:( https://prajaktap50.github.io/personal-portfolioo/)
 
@@ -29,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajaktap50&show_icons=true&locale=en" alt="prajaktap50" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktap50&" alt="prajaktap50" /></p>
+
 
 
